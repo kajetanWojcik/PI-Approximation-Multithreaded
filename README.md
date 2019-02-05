@@ -1,4 +1,4 @@
-# PI-Approximation-Multithreaded
+# Multithreaded PI Approximation 
 
 Following solution calculates PI number approximation using Monte Carlo method and multiple threads. Before calculation takes place, user is asked to input number of samples and number of threads.
 
