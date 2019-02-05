@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Multi Thread Tests.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  piApprox.cpp
+  Generating code
+  All 273 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Multi Thread Tests.vcxproj -> D:\Dokumenty\Visual Studio 2015\Projects\Multithreaded PI Approximation\Multithreaded PI Approximation\Release\Multithreaded PI Approximation.exe
+  Multi Thread Tests.vcxproj -> D:\Dokumenty\Visual Studio 2015\Projects\Multithreaded PI Approximation\Multithreaded PI Approximation\Release\Multithreaded PI Approximation.pdb (Full PDB)
