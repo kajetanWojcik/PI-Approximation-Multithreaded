@@ -1,5 +1,7 @@
 # Multithreaded PI Approximation 
 
+Main code: piApprox.cpp
+
 Following solution calculates PI number approximation using Monte Carlo method and multiple threads. Before calculation takes place, user is asked to input number of samples and number of threads.
 
 This project was created in Microsoft Visual Studio 2015.
